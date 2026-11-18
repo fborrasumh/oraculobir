@@ -1,6 +1,6 @@
 # Informe de extracción · OráculoBIR
 
-Generado: 2026-11-18T09:11:07+00:00
+Generado: 2026-11-18T09:12:30+00:00
 
 | Año | Preguntas | Opciones | Con respuesta | Anuladas | Cotejo con lo publicado | Estado |
 |---|---|---|---|---|---|---|
@@ -10,6 +10,6 @@ Generado: 2026-11-18T09:11:07+00:00
 | 2025 | 210 | 4 | 206 | 4 | — | ✓ |
 | 2026 | 210 | 4 | 206 | 4 | — | ✓ |
 
-Preguntas totales: 1050 · clasificadas con IA: 976 · sin clasificar: 9 (1%)
+Preguntas totales: 1050 · clasificadas con IA: 1050 · sin clasificar: 0 (0%)
 
 Revisa a mano al menos 20 preguntas por año contra el PDF antes de fiarte de los datos.
