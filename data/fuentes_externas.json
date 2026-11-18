@@ -15,11 +15,21 @@
   ],
   "sitios": [
    "http://opositea.blogspot.com/p/examenes-bir-biologo-interno-residente.html",
-   "https://web.archive.org/web/2016/http://bir.hol.es/elacceso3.htm"
+   "https://web.archive.org/web/2016/http://bir.hol.es/elacceso3.htm",
+   "https://web.archive.org/web/2018/http://opositea.blogspot.com/p/examenes-bir-biologo-interno-residente.html"
   ],
   "wayback": [
    "bir.hol.es/*",
-   "www.telefonica.net/web2/bir/*"
-  ]
+   "www.telefonica.net/web2/bir/*",
+   "sis.msc.es/fse/FicherosMirweb/*",
+   "sis.msps.es/fse/FicherosMirweb/*",
+   "sis.mspsi.es/fse/FicherosMirweb/*",
+   "sis.msssi.es/fse/FicherosMirweb/*",
+   "sis.msssi.gob.es/fse/FicherosMirweb/*",
+   "sis.mscbs.gob.es/fse/FicherosMirweb/*",
+   "fse.msssi.gob.es/fse/FicherosMirweb/*",
+   "fse.mscbs.gob.es/fse/FicherosMirweb/*"
+  ],
+  "wayback_filtro": "_B[._]|_B\\.pdf|biolog|bir"
  }
 }

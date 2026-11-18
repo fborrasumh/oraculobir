@@ -58,18 +58,26 @@ def recorre(sitios, paginas):
 
 
 def baja_desde(u, pagina=None):
+    if 'web.archive.org' in u:   # archive.org corta conexiones si se le pide mucho seguido: reintentos con pausa
+        import time
+        for k in range(5):
+            try: return X.baja(u)
+            except Exception as e:
+                if k == 4: raise
+                print(f'    archive.org: reintento {k + 1} ({e})'); time.sleep(8 * (k + 1))
     if not pagina: return X.baja(u)
     req = urllib.request.Request(urllib.parse.quote(u, safe=':/?&=%#'), headers={**X.UA, 'Referer': pagina})
     return X.OP.open(req, timeout=180).read()   # mismo «opener» que al visitar la página: lleva sus cookies
 
 
-def wayback(patron):
+def wayback(patron, filtro=None):
     """PDF y ZIP archivados en la Wayback Machine (archive.org) para un patrón de URL, p. ej. «bir.hol.es/*»: webs ya desaparecidas."""
     q = 'https://web.archive.org/cdx/search/cdx?url=' + urllib.parse.quote(patron, safe='*/:') + '&output=json&filter=statuscode:200&collapse=urlkey&limit=3000'
     try: filas = json.loads(X.baja(q).decode('utf-8', 'ignore') or '[]')
     except Exception as e: print('  wayback ✕', patron, e); return []
-    out = [f'https://web.archive.org/web/{f[1]}id_/{f[2]}' for f in filas[1:] if f[2].lower().split('?')[0].endswith(('.pdf', '.zip')) or 'pdf' in f[3] or 'zip' in f[3]]
-    print(f'  wayback {patron}: {len(out)} ficheros archivados')
+    out = [f'https://web.archive.org/web/{f[1]}id_/{f[2]}' for f in filas[1:] if (f[2].lower().split('?')[0].endswith(('.pdf', '.zip')) or 'pdf' in f[3] or 'zip' in f[3])
+           and (not filtro or re.search(filtro, f[2], re.I))]
+    print(f'  wayback {patron}: {len(out)} ficheros archivados' + (f' que cumplen «{filtro}»' if filtro else ''))
     return out
 
 
@@ -103,6 +111,16 @@ def clasifica(nombre, b, pagina=''):
     ya = X.anio_examen(tx)
     if ya and re.search(r'cuaderno de examen', cab):
         if not PORTADA.search(cab): return None, None, f'cuaderno de otra titulación ({ya})', p
+        # algunas copias llevan la hoja de respuestas al final del propio cuaderno: se separa como plantilla de ese año
+        cola = tx[int(len(tx) * 0.6):]
+        m = None
+        for m in re.finditer(r'(respuestas\s+correctas|hoja\s+de\s+respuestas|plantilla|\bV\s+RC\b)', cola, re.I): pass
+        if m:
+            t2 = cola[m.start():]
+            r2 = max(len(M.parse_plantilla(t2, 260, 5) or {}), len(M.parse_plantilla(t2, 260, 4) or {}))
+            if r2 >= 150:
+                q = p.with_name(p.stem + '-respuestas.txt'); q.write_text(t2, encoding='utf-8')
+                return 'cuaderno+plantilla', [ya], f'cuaderno {ya} con sus respuestas al final ({r2})', (p, q)
         return 'cuaderno', [ya], f'cuaderno {ya}', p
     r = M.parse_plantilla(tx, 260, 5) or {}
     r4 = M.parse_plantilla(tx, 260, 4) or {}
@@ -123,7 +141,7 @@ def main():
     F = json.loads((R / 'data' / 'fuentes_externas.json').read_text(encoding='utf-8'))
     C = F.get('_cosecha', {})
     pag = recorre(C.get('sitios', []), C.get('paginas', []))
-    wb = [u for p in C.get('wayback', []) for u in wayback(p)]
+    wb = [u for p in C.get('wayback', []) for u in wayback(p, C.get('wayback_filtro'))]
     fich = list(dict.fromkeys(C.get('ficheros', []) + list(pag) + wb))[:MAX_FICHEROS]
     print(f'{len(fich)} ficheros candidatos')
     cand, vistos, orig = {}, set(), {}
@@ -137,11 +155,14 @@ def main():
             tipo, ys, nota, p = clasifica(nombre, b, pag.get(u, ''))
             print(f'  {nombre[:70]:70s} → {nota}   ({u[:90]})')
             if not tipo: continue
-            orig[p.as_uri()] = u if nombre == urllib.parse.unquote(u.split('?')[0].rsplit('/', 1)[-1]) else f'{u} :: {nombre}'
-            for y in ys:
-                e = cand.setdefault(str(y), {'cuaderno': [], 'plantilla': [], 'plantilla_dudosa': []})
-                # los que llevan el año en el texto, primero
-                (e[tipo].insert(0, p.as_uri()) if len(ys) == 1 else e[tipo].append(p.as_uri()))
+            fuente = u if nombre == urllib.parse.unquote(u.split('?')[0].rsplit('/', 1)[-1]) else f'{u} :: {nombre}'
+            pares = [('cuaderno', p[0]), ('plantilla', p[1])] if tipo == 'cuaderno+plantilla' else [(tipo, p)]
+            for tp, f in pares:
+                orig[f.as_uri()] = fuente + (' (respuestas al final del cuaderno)' if f.suffix == '.txt' else '')
+                for y in ys:
+                    e = cand.setdefault(str(y), {'cuaderno': [], 'plantilla': [], 'plantilla_dudosa': []})
+                    # los que llevan el año en el texto, primero
+                    (e[tp].insert(0, f.as_uri()) if len(ys) == 1 else e[tp].append(f.as_uri()))
     pathlib.Path('/tmp/cosecha.json').write_text(json.dumps({**cand, '_origen': orig}, indent=1), encoding='utf-8')
     print('\nResumen de la cosecha:')
     for y in sorted(cand, key=int): print(f"  {y}: {len(cand[y]['cuaderno'])} cuadernos, {len(cand[y]['plantilla'])} plantillas con año, {len(cand[y]['plantilla_dudosa'])} dudosas")
