@@ -35,6 +35,11 @@
       "name": "Fernando Borrás Rocher",
       "orcid": "0000-0002-5519-4573",
       "affiliation": "Universidad Miguel Hernández de Elche"
+    },
+    {
+      "name": "Antonio Ferrer-Montiel",
+      "orcid": "0000-0002-2973-6607",
+      "affiliation": "Universidad Miguel Hernández de Elche"
     }
   ],
   "idea_credit": "Basada en OráculoMIR y OráculoFIR, adaptada al examen BIR (Biología).",
