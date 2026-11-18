@@ -1,3 +1,16 @@
 {
- "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del BIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN (las «pruebas selectivas 2019» se examinaron en enero de 2020). Formato: {\"2019\": {\"cuaderno\": [\"url1\", \"url2\"], \"plantilla\": [\"url1\", \"url2\"]}}. El código comprueba en la portada que sea de Biología, de la versión 0 y del año indicado."
+ "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del BIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN (las «pruebas selectivas 2019» se examinaron en enero de 2020). Formato: {\"2019\": {\"cuaderno\": [\"url1\", \"url2\"], \"plantilla\": [\"url1\", \"url2\"]}}. El código comprueba en la portada que sea de Biología, de la versión 0 y del año indicado. «_cosecha»: webs («sitios», recorridas), noticias («paginas», solo sus enlaces) y ficheros .pdf/.zip directos que scripts/bir_cosecha.py descarga y clasifica mirando dentro de cada PDF.",
+ "_cosecha": {
+  "ficheros": [
+   "https://oposicionesconexito.com/descargas/6905/",
+   "https://www.consalud.es/uploads/s1/15/58/93/7/cuaderno-2020-biologia-0-c.pdf"
+  ],
+  "paginas": [
+   "https://www.consalud.es/formacion/respuestas-definitivas-examen-bir-2020-preguntas-anuladas.html",
+   "https://www.consalud.es/especial-mir/bir-2021-publicadas-preguntas-examen_94458_102.html",
+   "https://www.consalud.es/especial-mir/bir-2021-consultar-respuestas-correctas-examen_95140_102.html",
+   "https://oposicionesconexito.com/examenes-bir-biologo-interno-residente/"
+  ],
+  "sitios": []
+ }
 }
