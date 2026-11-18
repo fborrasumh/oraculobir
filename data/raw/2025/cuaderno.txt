@@ -92,7 +92,6 @@ como señal anorexigénica?:
 2. Disminuye la síntesis de proteínas.
 3. Disminuye la formación de glucógeno.
 4. Disminuye la gluconeogénesis.
-Página:
 9. La secreción de glucagón es inhibida por:
 1. Somatostatina.
 2. Aumento de aminoácidos en sangre.
@@ -142,7 +141,6 @@ sangre?:
 2. Capilares.
 3. Arterias.
 4. Venas.
-1 de 19
 15. ¿Qué genera la onda 'a' en el registro del
 pulso venoso?:
 1. Contracción auricular.
@@ -188,7 +186,6 @@ provocan:
 2. Ingesta excesiva y obesidad.
 3. Disminución de la ingesta hídrica.
 4. Caquexia.
-Página:
 22. Sobre la deglución, es cierto que:
 1. El bolo alimenticio es enviado a la orofa-
 ringe de forma involuntaria.
@@ -239,7 +236,6 @@ les.
 cápsula de Bowman.
 4. Vasa recta, células mesangiales y cápsu-
 la de Bowman.
-2 de 19
 27. Respecto a la reabsorción renal de bicar-
 bonato en el túbulo proximal es FALSO
 que:
@@ -292,7 +288,6 @@ la natremia.
 2
 disminución de la bicarbonaturia y de la
 cetonuria.
-Página:
 31. ¿Cuál es la osmolaridad (mOsm/l) de una
 solución que contiene NaCl 150 milimolar
 y KCl 50 milimolar?:
@@ -339,7 +334,6 @@ transpulmonar.
 3. Al volumen de reserva menos el volumen
 corriente.
 4. Al volumen de reserva inspiratoria.
-3 de 19
 37. La cantidad máxima de aire que puede
 expulsar una persona, tras llenar los pul-
 mones hasta su máxima dimensión y espi-
@@ -388,7 +382,6 @@ dodermo?:
 2. Scl/Tal1.
 3. p53.
 4. Pu.1.
-Página:
 43. ¿Qué proceso celular media la aparición
 del fenotipo ectomesenquimático y migra-
 torio en las células de la cresta neural?:
@@ -430,7 +423,6 @@ tas?:
 2. ATP.
 3. ARN mensajero.
 4. ADP
-4 de 19
 48. ¿Qué mecanismo actúa para transmitir la
 señal en un receptor acoplado a un canal
 iónico localizado en una sinapsis neuro-
@@ -479,7 +471,6 @@ protones al espacio intermembrana mito-
 condrial.
 4. Se localiza en el espacio intermembrana
 mitocondrial.
-Página:
 53. Las cohesinas:
 1. Condensan filamentos de colágeno.
 2. Aglutinan vesículas citoplásmicas.
@@ -524,7 +515,6 @@ mos o gránulos de Nissl de las neuronas?:
 3. Retículo endoplásmico rugoso y riboso-
 mas libres.
 4. Retículo endoplásmico liso.
-5 de 19
 59. Señale cuál de las siguientes opciones
 justifica que la pancreatitis sea especial-
 mente grave:
@@ -580,7 +570,6 @@ venticia.
 4. Una túnica íntima, una media (que puede
 faltar en vasos delgados) y otra adventi-
 cia.
-Página:
 64. Los corpúsculos de Hasall son propios de:
 1. La corteza del linfonodo.
 2. La médula del riñón.
@@ -627,7 +616,6 @@ considera sistema inmune primario:
 2. Ganglios linfáticos.
 3. Bazo.
 4. Mucosa intestinal.
-6 de 19
 70. ¿Cuál de los siguientes eventos NO se
 considera dentro del proceso de la infla-
 mación?:
@@ -676,7 +664,6 @@ linfocitos T?:
 2. Receptores Toll.
 3. MHC.
 4. Complemento.
-Página:
 77. ¿Qué clase de inmunidad es mediada por
 los linfocitos T citotóxicos?:
 1. Inmunidad humoral.
@@ -727,7 +714,6 @@ linfocitos T?:
 las células efectoras.
 4. Supresión de células efectoras por célu-
 las T reguladoras.
-7 de 19
 84. ¿Qué tipo de célula es la principal respon-
 sable de la respuesta inmune adaptativa?:
 1. Macrófago.
@@ -747,7 +733,7 @@ ceptor tipo I para el TNF?:
 1. Inhibición de la transcripción génica de
 mediadores inflamatorios y de supervi-
 vencia.
-2. Activación del NF-B.
+2. Activación del NF-κB.
 3. La inducción de la muerte celular por
 apoptosis.
 4. Activación de la cinasa (quinasa) MAP.
@@ -775,7 +761,6 @@ humana?:
 2. CD5 y CXCR4.
 3. CXCR5 y CXCR4.
 4. CXCR4 y CCR5.
-Página:
 90. ¿Qué célula es la principal secretora de
 histamina al activarse?:
 1. Mastocitos.
@@ -827,7 +812,6 @@ ger Associated Molecular Patterns)?:
 2. LRP5.
 3. NLR.
 4. CLR.
-8 de 19
 96. El z-score, puntuación z o puntuación es-
 tandarizada (𝒛 =(𝒙 −𝒙̅)/𝒔 donde 𝒙̅ es la
 𝒊 𝒊
@@ -885,7 +869,6 @@ esto es, P(A)xP(B).
 alguno de ellos) es la suma de la proba-
 bilidad del mayor más la probabilidad de
 la intersección.
-Página:
 100. Se ha construido una recta de regresión
 (regresión lineal simple) entre las variables
 X e Y (Y=a+bX+e) que han sido previamen-
@@ -935,7 +918,6 @@ sis?:
 2. Meiosis I.
 3. Meiosis II.
 4. Citocinesis.
-9 de 19
 106. ¿Qué se analiza al secuenciar el transcrip-
 toma?:
 1. ADN.
@@ -979,7 +961,6 @@ codificantes.
 3. Incrementa las tasas de mutación de sus
 genes.
 4. Impide su recombinación meiótica.
-Página: 1
 112. Si un gen se localiza en el 13q14 significa
 que:
 1. Está situado en el brazo largo del cromo-
@@ -1026,7 +1007,6 @@ sómica:
 2. Autosómica recesiva.
 3. Ligada al cromosoma X dominante.
 4. Ligada al cromosoma X recesiva.
-10 de 19
 118. Se separan por electroforesis fragmentos
 de ADN de 500, 1.000 y 2.000 pares de ba-
 ses (pbs) de longitud. ¿Qué fragmento
@@ -1073,7 +1053,6 @@ gen PTEN?:
 2. Mama/ovario familiar.
 3. Li-Fraumeni.
 4. Cowden.
-Página: 1
 124. El mecanismo más frecuente que induce la
 activación del protooncogen BCL2 en el
 linfoma folicular es:
@@ -1124,7 +1103,6 @@ situación de aerobiosis.
 zima NADPH.
 4. Oxida el piruvato a lactato en situación
 de anaerobiosis.
-11 de 19
 129. ¿Cuál es la función de la movilización del
 glucógeno hepático?:
 1. Proporcionar la gran energía requerida
@@ -1176,7 +1154,6 @@ ayuno prolongado a partir del acetil-CoA.
 principal combustible metabólico de los
 eritrocitos en situación de ayuno prolon-
 gado.
-Página: 1
 133. ¿Cuál es la vitamina cuya deficiencia cau-
 sa el escorbuto?:
 1. Vitamina A.
@@ -1205,7 +1182,7 @@ do?:
 2. Leucina.
 3. Alanina.
 4. Glutamato.
-1317.. ¿Qué marcadores bioquímicos de inflama-
+1317. ¿Qué marcadores bioquímicos de inflama-
 ción/infección son recomendados para el
 diagnóstico de sepsis?:
 1. Proteína C reactiva (PCR) y haptoglobi-
@@ -1225,7 +1202,6 @@ dades metabólicas:
 (OTC).
 3. Glucogenosis tipo V.
 4. Gangliosidosis GM2.
-12 de 19
 139. Respecto a la enfermedad de la orina con
 olor a jarabe de arce señale la repuesta
 CORRECTA:
@@ -1283,7 +1259,6 @@ gamma.
 la fracción gamma.
 4. Aumento de albúmina y de la fracción
 gamma.
-Página: 1
 143. El paciente con hipotiroidismo primario
 compensado o subclínico, sin tratamiento
 sustitutivo, presenta en sangre:
@@ -1336,7 +1311,6 @@ retroalimentación positiva.
 2. Hormona luteinizante (LH).
 3. Hormona adrenocorticotrópica (ACTH).
 4. Hormona antidiurética (ADH).
-13 de 19
 149. Cursa con depósitos excesivos de cobre
 en los tejidos:
 1. La enfermedad de Wilson.
@@ -1381,7 +1355,6 @@ se necesitan técnicas de amplificación y
 diferenciación del ADN fetal respecto al
 materno para que tenga utilidad diagnós-
 tica.
-Página: 1
 153. ¿Cuál es la respuesta CORRECTA en rela-
 ción con la acción reguladora de los mi-
 croRNAs en las células eucariotas?:
@@ -1436,7 +1409,6 @@ número haploide.
 3. Es un sinónimo de triploidía.
 4. Es muy frecuente en humanos (50% de
 los embarazos a término).
-14 de 19
 157. La hemocromatosis por mutaciones en el
 gen HFE es un tipo de enfermedad:
 1. Autosómica dominante.
@@ -1485,7 +1457,6 @@ selectivos.
 samiento del ARN mensajero.
 4. Inactivación del cromosoma X en las cé-
 lulas femeninas.
-Página: 1
 162. La activación del complejo ciclina B-CDK
 1:
 1. Se produce cuando la célula va a replicar
@@ -1536,7 +1507,6 @@ penicilina (PBPs).
 23S-ARNr codificada por el gen cfr.
 4. Cambios en las proteínas ribosomales L3
 y L4.
-15 de 19
 168. Señale la asociación CORRECTA:
 1. Chlamydia pneumoniae- colonias rugo-
 sas en medio de agar sangre.
@@ -1589,7 +1559,6 @@ respiratoria.
 3. Inmunofluorescencia indirecta de mues-
 tra respiratoria.
 4. Detección de anticuerpos en sangre
-Página: 1
 174. Respecto a las infecciones por Legionella
 pneumophila, una de las siguientes afir-
 maciones es FALSA:
@@ -1636,7 +1605,6 @@ contaminados.
 todos los casos.
 4. Son causa frecuente de diarrea en po-
 blación infantil.
-16 de 19
 179. Una de las siguientes asociaciones entre
 especies de Yersinia y patología producida
 es FALSA:
@@ -1683,7 +1651,6 @@ bacterium NO crece a 35-37ºC?:
 2. M. scrofulaceum.
 3. M. kansasii.
 4. M. ulcerans.
-Página: 1
 185. ¿Cuál es el método más común actualmen-
 te para diagnosticar la leptospirosis en la
 práctica clínica?:
@@ -1733,7 +1700,6 @@ como un provirus.
 4. El genoma viral permanece en el núcleo
 de las células del huésped, pero no inte-
 grado al ADN celular.
-17 de 19
 191. ¿Cuál de los siguientes enterovirus se
 asocia comúnmente a brotes de enferme-
 dad de manos, pies y boca?:
@@ -1783,7 +1749,6 @@ mo(quimio) inmunoanálisis.
 diante PCR en tiempo real.
 4. Detección de ARN viral en suero/plasma
 mediante PCR en tiempo real.
-Página: 1
 196. ¿Cuál de los siguientes virus utiliza una
 transcriptasa inversa para replicar su ge-
 noma?:
@@ -1835,7 +1800,6 @@ lina.
 hay excepciones como las glándulas su-
 doríparas que están inervadas por neu-
 ronas simpáticas que liberan acetilcolina.
-18 de 19
 202. Los canales de Na+ pueden bloquearse
 selectivamente con:
 1. Trietilamonio.
@@ -1884,7 +1848,6 @@ caspasas.
 forilación por la proteína Bcl-2.
 4. Activación de las caspasas mediante la
 formación del apoptosoma.
-Página: 1
 208. ¿Qué gen supresor de tumores se relacio-
 na con la poliposis adenomatosa familiar
 del colon?:
@@ -1911,6 +1874,5 @@ del tejido entérico.
 3. Su mecanismo de transmisión es fecal-
 oral.
 4. Puede dar lugar a brotes y epidemias.
-19 de 19
 
 

@@ -101,7 +101,7 @@ contiene:
 8. ¿Cuál de los siguientes factores estimula
 la secreción de insulina?:
 1. Cortisol.
-2. Agonistas -adrenérgicos.
+2. Agonistas α-adrenérgicos.
 3. Ayuno.
 4. Somatostatina.
 9. El receptor de la hormona liberadora de
@@ -454,7 +454,7 @@ de tipo V.
 47. ¿Cuál de las siguientes proteínas nuclea la
 generación de ramificaciones en los fila-
 mentos de actina?:
-1. La -actinina.
+1. La α-actinina.
 2. El complejo Arp2/3.
 3. La profilina.
 4. La cofilina.
@@ -819,7 +819,7 @@ tor de las células T (TCR)?:
 convencional?:
 1. Linfocitos T reguladores (Treg).
 2. Linfocitos CD8αβ.
-3. Linfocitos T.
+3. Linfocitos Tγδ.
 4. Linfocitos Th1.
 89. ¿Para qué subtipo de célula T se ha encon-
 trado una relación entre su hiperfunciona-
@@ -884,7 +884,7 @@ de susceptibilidad genética.
 linfocitos T cooperadores foliculares (Tfh)
 y las ILC2.
 4. La IgE se une de forma específica y con
-alta afinidad al FcRII.
+alta afinidad al FcRεII.
 96. Respecto a los adyuvantes indique la op-
 ción CORRECTA:
 1. Estimulan de forma potente las respues-

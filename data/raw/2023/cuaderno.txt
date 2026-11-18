@@ -86,7 +86,7 @@ medir.
 3. Determina cantidades de hormona siempre
 que sean superiores a 1 microgramo/decilitro.
 4. No es cuantitativo.
-- 1
+-
 7. ¿Cuál de las siguientes hormonas llega a la
 hipófisis a través de los vasos porta hipotálamo-
 hipofisarios?:
@@ -183,7 +183,7 @@ nizante (LH) promueve la:
 3. La leptina es una orexina.
 4. Las neuronas del hipotálamo ventromedial
 actúan como centro del hambre.
-- 2
+-
 22. Con respecto a la saliva:
 1. Las concentraciones iónicas se mantienen
 constantes independientemente del flujo de
@@ -289,7 +289,7 @@ bina?:
 2 2.
 4. α β ү
 2 2 2.
-- 3
+-
 33. ¿Cuál es la osmolaridad (mOsm/L) de una solu-
 ción que contiene NaCl 150 milimolar y KCl
 100 milimolar?:
@@ -389,7 +389,7 @@ de las mitocondrias?:
 4. Modificaciones postraduccionales de proteí-
 nas de la vía secretora (glucosilaciones y
 puentes disulfuro).
-- 4
+-
 47. ¿Por medio de qué mecanismo se acidifica el
 lumen de los lisosomas y de las vacuolas?:
 1. Por medio de difusión facilitada de iones.
@@ -488,7 +488,7 @@ membrana basal que separa:
 2. La teca interna y la externa.
 3. El ovocito de las células de la granulosa.
 4. El cumulus ooforus del antro folicular.
-- 5
+-
 61. El epitelio de la nasofaringe es:
 1. Poliestratificado con células caliciformes.
 2. Plano y ciliado.
@@ -586,7 +586,7 @@ tario depende del:
 2. Genotipo y tamaño de la población.
 3. Genotipo y ambiente.
 4. Genotipo, ambiente y tamaño de la población.
-- 6
+-
 74. El test de Ames se utiliza para:
 1. Medir la frecuencia con que revierte una mu-
 tación.
@@ -687,7 +687,7 @@ ciones enzimáticas.
 3. Una molécula de ARN con funciones catalíti-
 cas.
 4. Una proteína que degrada moléculas de ARN.
-- 7
+-
 89. Si la temperatura de fusión o desnaturalización
 (Tm) de una muestra de ADN (A) es mayor que
 la de una muestra (B) significa que:
@@ -782,7 +782,7 @@ idéntica?:
 2. Alógeno.
 3. Xenógeno.
 4. Singénico
-- 8
+-
 103. ¿Qué inmunoglobulina carece de región bisa-
 gra?:
 1. IgA.
@@ -878,7 +878,7 @@ ciadas a patógenos.
 2. Marcan microbios para ser fagocitados.
 3. Inhiben el complemento.
 4. Marcan células no apoptóticas.
-- 9
+-
 115. ¿Cuáles son las tres etapas de la teoría de in-
 munoedición del cáncer?:
 1. Eliminación, equilibrio y escape.

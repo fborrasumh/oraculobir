@@ -89,7 +89,7 @@ formación de hueso?:
 2. Inhibe la contracción del útero.
 3. Reduce la excreción renal de agua.
 4. Estimula la eyección de leche.
-- 1
+-
 8. ¿Cuál de estos factores estimula la secreción de
 hormona de crecimiento?:
 1. Aumento de la glucemia.
@@ -179,7 +179,7 @@ músculo liso y es de carácter involuntario.
 externo está controlado voluntariamente.
 4. Implica la contracción simultánea de los dos
 esfínteres anales, el interno y el externo.
-- 2
+-
 22. De la motilidad gastrointestinal podemos afir-
 mar que:
 1. El plexo submucoso o de Meissner es el res-
@@ -286,7 +286,7 @@ la inspiración?:
 2. Negativización de la presión alveolar.
 3. Positivización de la presión intrapleural.
 4. Estabilización de la presión alveolar.
-- 3
+-
 32. ¿Qué sustancia de las siguientes produce una
 disminución de la resistencia al flujo aéreo por
 su acción sobre el músculo liso bronquial?:
@@ -380,7 +380,7 @@ mecanoeléctrica de las ondas sonoras?:
 2. La membrana tectorial.
 3. El órgano de Corti.
 4. La rampa timpánica.
-- 4
+-
 45. ¿Qué determina que el sistema auditivo inter-
 prete un sonido como intenso?:
 1. La inhibición de las células ciliadas.
@@ -482,7 +482,7 @@ mas debe:
 plásmico rugoso.
 3. Tener un grupo ácido.
 4. Ir marcada con manosa-6-fosfato.
-- 5
+-
 57. ¿Qué proteína determina la longitud precisa de
 los filamentos de actina en el sarcómero?:
 1. Troponina.
@@ -576,7 +576,7 @@ integrantes del moco, con acción protectora.
 nal.
 4. Producen una proteína de acción bactericida
 llamada lisozima.
-- 6
+-
 70. ¿Qué células reticulares epiteliales componen
 los corpúsculos de Hassall del timo?:
 1. Células tipo I.
@@ -673,7 +673,7 @@ sensibilidad inmediata o de tipo I?:
 2. Anemia hemolítica autoinmune.
 3. Lupus eritematoso sistémico.
 4. Dermatitis de contacto por níquel.
-- 7
+-
 82. ¿Cuál de los siguientes mediadores preforma-
 dos de los mastocitos que se liberan en una
 reacción de hipersensibilidad de tipo I puede
@@ -764,7 +764,7 @@ epitelios y mucosas, EXCEPTO:
 3. El pH básico de la piel.
 4. Los péptidos antimicrobianos secretados por
 las células epiteliales.
-- 8
+-
 94. ¿Cuál es el conjunto de células y moléculas que
 mejor se adapta al patrón de respuesta inmune
 frente a virus?:
@@ -870,7 +870,7 @@ bre afectado por dicha enfermedad?:
 2. 50%.
 3. 25%.
 4. 0%.
-- 9
+-
 104. Cuando el fenotipo de un heterocigoto es cuan-
 titativamente intermedio entre el de los dos
 homocigotos nos encontramos ante un caso de
