@@ -1,10 +1,10 @@
 # Informe de extracción · OráculoBIR
 
-Generado: 2026-11-18T10:30:43+00:00
+Generado: 2026-11-18T10:36:31+00:00
 
 | Año | Preguntas | Opciones | Con respuesta | Anuladas | Cotejo con lo publicado | Estado |
 |---|---|---|---|---|---|---|
-| 2021 (copia) | 185 | 4 | 0 | 0 | — | ✓ |
+| 2021 (copia) | 185 | 4 | 177 | 8 | — | ✓ |
 | 2022 | 210 | 4 | 203 | 7 | — | ✓ |
 | 2023 | 210 | 4 | 209 | 1 | — | ✓ |
 | 2024 | 210 | 4 | 203 | 7 | — | ✓ |
